@@ -126,6 +126,14 @@ width: 45%;
    justify-content: space-between;
 }
 
+.img{
+    width: 20%;
+}
+
+.Categoria{
+    width: 70%;
+}
+
 .cadastro_coluna2,
 .valor,
 .peso,
